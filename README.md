@@ -2,8 +2,8 @@
 A new version of Wi-Fi module with ESP8266 which is used for BigClown IoT platform
 
 Wi-Fi module v1.1 is compatible with BigClown IoT platform and contains a few improvement than version 1.0. 
-- contains SMT and THT headers - it's up to you what do you prefer 
-- includes I2C connector for sensor - BigClown's TAGs or sensor from ebay or aliexpress 
+- SMT and THT headers - it's up to you what do you prefer 
+- I2C connector for sensor - BigClown's TAGs or sensor from ebay or aliexpress 
 - versatile I2C connector for sensor - you can switch power of sensor 
 - pure design 
 - choice what UART bus you want to use - UART0 or UART1 and more 
