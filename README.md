@@ -9,3 +9,5 @@ Wi-Fi module v1.1 is compatible with BigClown IoT platform and contains a few im
 - choice what UART bus you want to use - UART0 or UART1 and more 
 
 More infor on english website https://time4ee.com/articles.php?article_id=124 or on czech website https://chiptron.cz/articles.php?article_id=240
+
+You can buy it on https://www.tindie.com/products/chiptron/wi-fi-module-with-esp8266-for-bigclown-bare-pcb/
