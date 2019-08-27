@@ -14,7 +14,7 @@ Core module without Radio https://shop.bigclown.com/core-module-nr/ </br>
 Flood detector: https://shop.bigclown.com/3d-printed-enclosure-501/ </br>
 Mini baterry module: https://shop.bigclown.com/mini-battery-module/ </br>
 3D printed enclosure: https://shop.bigclown.com/3d-printed-enclosure-501/</br> 
-and Wi-Fi module v1.1  </br>
+and Wi-Fi module v1.1: https://www.tindie.com/products/chiptron/wi-fi-module-with-esp8266-for-bigclown-bare-pcb/  </br>
 
 How is it working</br> 
 https://www.youtube.com/watch?v=7Jf7yYidH3M
